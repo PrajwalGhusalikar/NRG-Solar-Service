@@ -12,7 +12,7 @@ const Home = () => {
           "linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../assets/homeImage.jpg')",
       }}
     >
-      <div className="flex flex-col md:flex-row items-center max-w-6xl mx-auto">
+      <div className="flex flex-col pt-20 md:flex-row items-center max-w-6xl mx-auto">
         
         <div className="text-center md:text-left md:mr-8 flex-1 space-y-6">
           <h2 className="text-5xl md:text-6xl font-bold leading-tight mb-4 flex items-center gap-2">
