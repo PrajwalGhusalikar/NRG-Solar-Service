@@ -2,7 +2,6 @@ const Footer = () => {
   return (
     <footer className="bg-gray-900 text-white py-10">
       <div className="container mx-auto px-6 md:px-12 grid gap-8 md:grid-cols-3 text-center md:text-left">
-        
         <div>
           <h3 className="text-2xl font-semibold mb-4 text-green-500">
             NRG Solar Service
@@ -24,17 +23,16 @@ const Footer = () => {
                 href="mailto:info@nrgsolarservice.com"
                 className="text-white hover:underline"
               >
-                info@nrgsolarservice.com
+                nrgsolarservice@gmail.com
               </a>
             </li>
             <li>
               Phone:{" "}
               <a href="tel:+1234567890" className="text-white hover:underline">
-                +1 234 567 890
+                9765001194
               </a>
             </li>
-            <li>Vendor Name: NRG Solar Service Inc.</li>
-            <li>Vendor Number: #NRG-2024</li>
+            <li>Vendor Name: Nilkanth Ghusalikar</li>
           </ul>
         </div>
 
@@ -42,9 +40,9 @@ const Footer = () => {
         <div>
           <h3 className="text-xl font-semibold mb-4 text-green-500">Address</h3>
           <p className="text-gray-400">
-            123 Solar Avenue, <br />
-            Green City, TX 78901 <br />
-            United States
+            Chandur Railway- 444904 ,<br />
+            Amravati, <br />
+            Maharashtra
           </p>
         </div>
       </div>
