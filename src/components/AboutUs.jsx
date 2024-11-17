@@ -9,7 +9,7 @@ const AboutUs = () => {
       style={{ minHeight: "100vh" }}
     >
       <div className="container mx-auto px-6 md:px-16 max-w-5xl">
-        <div className="text-center md:text-left space-y-8">
+        <div className="text-justify md:text-left space-y-8">
           <h2 className="text-5xl font-extrabold mb-4 text-green-800 drop-shadow-lg">
             About NRG Solar Service
           </h2>

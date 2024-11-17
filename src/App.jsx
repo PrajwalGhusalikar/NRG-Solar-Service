@@ -7,6 +7,7 @@ import Gallery from "./components/Gallery";
 import ContactUs from "./components/ContactUs";
 import Footer from "./components/Footer";
 import Navbar from "./components/NavBar";
+import ImageCarousel from "./components/ImageCarousel";
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <Home />
       <AboutUs />
       <Service />
+      <ImageCarousel/>
       <Gallery />
       <ContactUs />
       <Footer />
